@@ -802,6 +802,11 @@
     -webkit-text-stroke: 1px #000;
     mix-blend-mode: normal;
   }
+
+  .header_burger{
+    width: 60px;
+    height: 25px;
+  }
   .shine-bright-like,
   .videobutton {
     top: 534px;
