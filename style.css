@@ -1755,8 +1755,8 @@
       width: 60px;
       height: 25px;
       position: relative;
-      top: 0;
-      right: 0;
+      top: 107px;
+    right: -526px;
     }
     .burger_line{
       display :block;
@@ -1770,10 +1770,12 @@
       .burger_line_first {
         top: 0;
       }
+
       .burger_line_second {
         top: 50%;
         transform: translaterY(-50%);
       }
+
       .burger_line_third {
         bottom: 0;
       }
