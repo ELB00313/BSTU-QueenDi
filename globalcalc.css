@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alegreya-sc: "Alegreya SC";
+  --font-tinos: Tinos;
+  --font-babylonica: Babylonica;
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-pink: #ffc0cb;
+}
