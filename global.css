@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alegreya-sc: "Alegreya SC";
+  --font-babylonica: Babylonica;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-4xl: 23px;
+  --font-size-31xl: 50px;
+  --font-size-21xl: 40px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-pink: #ffc0cb;
+  --color-limegreen: #0eaf00;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+}
