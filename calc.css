@@ -544,6 +544,109 @@
     height: 100px;
     font-size: 45px;
 }
+.scheta{
+position: absolute;
+top:509px;
+width: 759px;
+    font-size: 45px;
+    color: #03743a;
+    left: -141px;
+   
+}
+.deposit{
+  position: absolute;
+  top: 582px;
+  width: 759px;
+  font-size: 45px;
+  color: #03743a;
+  left: -229px;
+ 
+}
+.credit{
+position: absolute;
+    top: 651px;
+    width: 700px;
+    font-size: 45px;
+    color: #03743a;
+    left: -215px;
+  
+}
+.cennyebym{
+  position: absolute;
+  top: 724px;
+  width: 800px;
+  font-size: 45px;
+  color: #03743a;
+  left: -192px;
+  
+}
+.strachov{
+  position: absolute;
+    top: 800px;
+    width: 759px;
+    font-size: 45px;
+    color: #03743a;
+    left: -199px;
+    
+}
+.perevody{
+  position: absolute;
+    top: 878px;
+    width: 759px;
+    font-size: 45px;
+    color: #03743a;
+    left: -61px;
+    
+}
+.google1{
+  position: absolute;
+    top: 526px;
+    width: 759px;
+    font-size: 30px;
+    color: #140374;
+    left: 326px
+}
+.google2{
+  position: absolute;
+    top: 599px;
+    width: 759px;
+    font-size: 30px;
+    color: #140374;
+    left: 145px;
+}
+.google3{
+  position: absolute;
+    top: 668px;
+    width: 759px;
+    font-size: 30px;
+    color: #140374;
+    left: 135px;
+}
+.google4{
+  position: absolute;
+    top: 741px;
+    width: 759px;
+    font-size: 30px;
+    color: #140374;
+    left: 281px
+}
+.google5{
+  position: absolute;
+    top: 817px;
+    width: 759px;
+    font-size: 30px;
+    color: #140374;
+    left: 225px;
+}
+.google6{
+  position: absolute;
+  top: 894px;
+  width: 759px;
+  font-size: 30px;
+  color: #140374;
+  left: 432px
+}
+
 /* .tovar2,
 .tovar22,
 .tovar24,
